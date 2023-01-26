@@ -1,8 +1,0 @@
-
-
- while wait() 
- do
-Game.ReplicatedStorage.RemoteEvents.Equip:FireServer
-"Piano"
-anything = true
- end
